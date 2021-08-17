@@ -1,4 +1,4 @@
-# PDFotoPrivacyPolicy
+# PDFoto Privacy Policy
 
 Privacy Policy
 Abraham Estrada built the PDFoto app as an Ad Supported app. This SERVICE is provided by Abraham Estrada at no cost and is intended for use as is.
